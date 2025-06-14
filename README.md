@@ -1,24 +1,59 @@
-# HelloSquirrel
+# AND101 Project 1 - Hello, Squirrel!
 
-A simple Android “profile card” demo app—displays a name, bio and hobbies.
+Submitted by: **Trishna Niraula**
 
-## 📸 Screenshot
+Time spent: **1 hour** spent in total
+
+## Summary
+
+**HelloSquirrel** is an Android app that recreates the common "Hello, World!" to introduce ourselves to the neighborhood squirrel 🐿.  It displays a profile card with an avatar, name, bio, and hobbies using ConstraintLayout and CardView.
+
+If I had to describe this project in three (3) emojis, they would be: **🐿️ 📱 👋**
+
+## Application Features
 
 
+The following REQUIRED features are completed:
 
----
+- [x] Change profile name to your name  
+- [x] Change profile bio text to a personal bio about yourself  
+- [x] Modify hobby section to include your top three (3) hobbies  
 
-## 🚀 Features
+The following STRETCH features are implemented:
 
-- 📝 Shows your full name (pulled from string resources)  
-- 💬 Bio section under your name  
-- 🎾 Hobbies list  
----
+- [x] Re-brand the app by modifying the UI (card background color, rounded corners)  
+-  Modify the profile image by uploading a new image drawable  
 
-## 🛠️ Getting Started
 
-### Prerequisites
+## Video Demo
 
-- Android Studio Flamingo or later  
-- Android SDK 31+  
-- Java 11
+Here's a video / GIF that demos all of the app's implemented features:
+
+<img src='http://i.imgur.com/YourGif.gif' title='Video Demo' width='600' alt='Video Demo' />
+
+GIF created with **Kap**
+
+<!-- Recommended tools:
+- [Kap](https://getkap.co/) for macOS
+- [ScreenToGif](https://www.screentogif.com/) for Windows
+- [peek](https://github.com/phw/peek) for Linux. -->
+
+## Notes
+
+I learned how to work with Android’s resource system (strings, drawables, dimensions) and got hands-on experience using ConstraintLayout and CardView for responsive layouts. I also practiced separating design-time (`tools:`) and runtime (`android:`) attributes.
+
+## License
+
+Copyright **2025** **Trishna Niraula**
+
+Licensed under the Apache License, Version 2.0 (the "License");  
+you may not use this file except in compliance with the License.  
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software  
+distributed under the License is distributed on an "AS IS" BASIS,  
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
+See the License for the specific language governing permissions and  
+limitations under the License.  
