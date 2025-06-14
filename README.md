@@ -29,7 +29,7 @@ The following STRETCH features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/YourGif.gif' title='Video Demo' width='600' alt='Video Demo' />
+!(screenshots/demo.gif)
 
 GIF created with **Kap**
 
